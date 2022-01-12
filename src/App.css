@@ -12,7 +12,6 @@
 .log span.changed {
     color: lightgreen;
     transition: all 0s; /*hack for one-way transition*/
-    font-size: larger;
 }
 
   .log span {
